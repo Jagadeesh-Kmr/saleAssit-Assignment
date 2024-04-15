@@ -1,0 +1,14 @@
+.wishlist-icon {
+  width: 24px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+  color: #ffffff;
+}
+
+@media screen and (max-width: 768px) {
+  .wishlist-icon {
+    width: 16px;
+    height: 16px;
+  }
+}

@@ -1,0 +1,22 @@
+.search-icon {
+  width: 24px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+  color: #ffffff;
+}
+
+.search-btn {
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+
+@media screen and (max-width: 768px) {
+  .search-icon {
+    width: 21px;
+    height: 21px;
+    margin-left: 30px;
+  }
+}
